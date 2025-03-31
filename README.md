@@ -20,8 +20,8 @@
   
 
 - Backend: 
-  <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 
 ---
