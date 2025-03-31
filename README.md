@@ -11,7 +11,7 @@
 **🖥️ Skill** <br> </p>
 
 - Language: 
-  <img src="https://img.shields.io/badge/-Java-007396?style=round-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=round-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 
 - Frontend: 
