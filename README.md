@@ -10,28 +10,31 @@
 
 **🖥️ Skill** <br> </p>
 
-- Language: 
-  <img src="https://img.shields.io/badge/-Java-007396?style=round-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
+- Language:
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+
+
 
 - Frontend: 
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 - Backend: 
-  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+
 
 ---
 
 **🧰 Tools** <br> </p>
-<p>
-  <img src="https://img.shields.io/badge/-intellij Idea-000000?style=round-square&logo=Intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
+
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=Intellijidea&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 
