@@ -44,5 +44,5 @@
 **🖥️ Contact** <br> </p>
 <p align="left">
 <a href="https://velog.io/@ka09068/posts"><img src="https://img.shields.io/badge/-tech blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ka09068/posts"/></a>
-<a href="https://www.instagram.com/ee_ddochi?igsh=M3A1MnAyamxkaWNt&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/k_hyun__e?igsh=M3A1MnAyamxkaWNt&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
